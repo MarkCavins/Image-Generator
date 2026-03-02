@@ -1,0 +1,5 @@
+{
+  "name": "Mark Image Generator",
+  "description": "Create and refine stunning images with Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
